@@ -1,4 +1,4 @@
-# Blender 3D Vizualizacija Binarnog Stabla Trazenja
+# Blender 3D Vizualizacija Binarnog Stabla Traženja
 Ovaj program, koji sam izradio za svoj završni rad, omogućuje 3D vizualizaciju izgradnje binarnog stabla traženja.
 Klikom na _Generiraj_ u grafičkom sučelju (`GUI.py`), otvara se Blender i renderira se .mp4 video s navedenim postavkama. Rezultat će se pojaviti u folderu 'renders', koji bi se trebao nalaziti unutar istog foldera gdje se nalazi i `tree_vizualization.blend`.
 
